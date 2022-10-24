@@ -15,3 +15,7 @@ You can make the download [here](https://jsoup.org)
 # How to use this app
 
 You can just run the app with the exemplo link that is already there, or you can replace it with another url of your choice.
+
+# IDE
+
+Intellij
